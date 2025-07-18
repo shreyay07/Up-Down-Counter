@@ -68,4 +68,4 @@ You can simulate the design using **Icarus Verilog** and visualize the waveform 
 
 > Waveform showing up and down counting with reset and enable
 
-![Waveform](waveforms/counter_waveform.png)
+![Waveform](waveform/counter_waveform.png)
